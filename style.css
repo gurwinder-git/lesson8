@@ -1,0 +1,37 @@
+       .card-img-top {
+            height: 170px !important;
+            width: 286px !important;
+
+        }
+
+        .footer {
+            background-color: #000000;
+        }
+
+        .navbar {
+            border-bottom: 1px solid;
+            border-color: #dee0e1 !important;
+            box-shadow: 0 3px 6px rgba(0, 0, 0, 0.05);
+        }
+
+        .card:hover {
+            box-shadow: 0px 0px 15px #9b9b9b;
+        }
+
+        #head {
+            text-align: center;
+        }
+
+        .d-block {
+            display: block !important;
+            margin-top: 57px;
+        }
+
+        .bimages:hover {
+            box-shadow: 0px 0px 15px #9b9b9b;
+        }
+
+       .img-thumbnail {
+            width: 350px;
+            height: 241px;
+        }
